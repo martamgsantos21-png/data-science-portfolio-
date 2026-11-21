@@ -32,6 +32,12 @@ An academic Business Intelligence project developed at ISCTE, using synthetic ho
 ### Departments
 ![Department analysis](Images/Departments.png)
 
+## 🔒 Full Power BI Report — Available Upon Request
+
+The complete Power BI project (`.pbix`), including the data model, interactive dashboards and report configuration, is maintained in a **private repository** to protect the original academic work.
+
+**Recruiters and hiring managers are welcome to request access** to review the full project. Access is granted individually upon request.
+
 ## Technical case study
 
 [Read about the data model, reporting decisions and data provenance](docs/PROJECT.md).
@@ -44,6 +50,6 @@ Power BI · Relational data modelling · Interactive visualisation · Reporting 
 
 The academic dataset contains **synthetic patient records**. Course materials cite Synthea: Walonoski et al. (2018), [*Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record*](https://doi.org/10.1093/jamia/ocx079). A related public dataset is [Maven Analytics — Hospital Patient Records](https://mavenanalytics.io/data-playground/hospital-patient-records).
 
-This is an academic case study, not an official Massachusetts General Hospital report. The completed Power BI `.pbix` is kept in a **private repository** to avoid unrestricted copying; access can be requested for recruitment review.
+This is an academic case study, not an official Massachusetts General Hospital report. The complete Power BI report is available to recruiters upon request, as described above.
 
 **Marta Santos** · Data Science portfolio

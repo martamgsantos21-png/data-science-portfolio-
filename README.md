@@ -11,6 +11,7 @@ This repository presents **selected academic projects** through technical summar
 | [01 · Healthcare Analytics](projects/01-healthcare-analytics/README.md) | Healthcare reporting, relational modelling and interactive dashboards | Power BI |
 | [02 · AdventureWorks ETL](projects/02-adventureworks-etl/README.md) | Data cleaning, transformation and analytical data modelling | Power Query, Power BI |
 | [03 · ATP Tennis Big Data](projects/03-atp-big-data/README.md) | SQL data preparation, relational database design and analytical querying | MySQL, SQL, MongoDB, Docker |
+| [04 · German Stock Market Forecasting](projects/04-german-stock-market-forecasting/README.md) | Financial time series, econometric forecasting and recurrent neural networks | Python, SARIMAX, VAR, GRU |
 
 ## Access to complete projects
 
